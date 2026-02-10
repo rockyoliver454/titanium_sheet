@@ -1,0 +1,143 @@
+**TITANIUMSHEET PROPRIETARY SOFTWARE LICENSE AGREEMENT**
+
+**Version 1.0 – Effective February 8, 2026**
+
+---
+____________________________________________________
+ /                                                    \
+|   _______ _____ _______  ______ __   _ _     _ _     |
+|      |      |      |    |_____| | \  | |     | |     |
+|      |    __|__    |    |     | |  \_| |_____| |_____|
+|                                                      |
+|    _______ _     _ _______ _______ _______           |
+|    |______ |_____| |______ |______    |              |
+|    ______| |     | |______ |______    |              |
+ \____________________________________________________/
+--
+**THIS PROPRIETARY SOFTWARE LICENSE AGREEMENT (the "Agreement")** is a legal contract between **Rocky L. Oliver** ("Licensor," "Owner," "We," "Us," "Our"), an individual developer with email address `rockyoliver454@gmail.com`, and **You**, the individual, company, or legal entity ("Licensee," "You," "Your") obtaining, installing, accessing, or using the software known as "TitaniumSheet" (the "Software," "Program," "Application"). By downloading, installing, copying, accessing, or otherwise using the Software, You acknowledge that You have read this Agreement, understand it, and agree to be bound by its terms and conditions. If You do not agree to the terms of this Agreement, You are not authorized to use the Software and must immediately cease any use and destroy all copies of the Software in Your possession or control.
+
+**WHEREAS**, the Licensor is the sole and exclusive owner of all right, title, and interest in and to the TitaniumSheet software, including all intellectual property rights therein;
+
+**WHEREAS**, the Licensee desires to obtain a limited, non-exclusive, non-transferable, and revocable license to use the Software pursuant to the terms and conditions set forth herein;
+
+**NOW, THEREFORE**, in consideration of the mutual covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
+
+---
+
+### **ARTICLE I: DEFINITIONS & INTERPRETATION**
+
+1.1 **"Software"** means the proprietary computer program entitled "TitaniumSheet," including all executable files, libraries, data files, documentation, accompanying materials, and any and all updates, upgrades, modifications, patches, or new versions thereof provided by the Licensor.
+1.2 **"License"** means the limited right granted herein to use the Software, subject to all restrictions and obligations.
+1.3 **"Intellectual Property Rights"** means all patents, copyrights, trademarks, trade secrets, know-how, database rights, design rights, and all other forms of intellectual property rights, whether registered or unregistered, and all applications for the same, anywhere in the world.
+1.4 **"Effective Date"** means the date You first install, download, or otherwise access the Software.
+1.5 **"Authorized Use"** means use of the Software strictly in accordance with this Agreement.
+1.6 **"You"/"Licensee"** refers to the individual person or single legal entity that has acquired the Software. If the Software is being used on behalf of an organization, You represent and warrant that You have the authority to bind that organization to this Agreement.
+
+---
+
+### **ARTICLE II: GRANT OF LICENSE**
+
+2.1 **Limited Grant**. Subject to Your full and ongoing compliance with all terms of this Agreement, Licensor hereby grants You a personal, non-exclusive, non-transferable, non-sublicensable, revocable, and limited license to install and use one (1) copy of the Software on a single computer or workstation for Your internal, personal, or business use. This is a **license to use**, not a sale of the Software or any copy of it.
+
+2.2 **License Scope**. The license granted is expressly limited as follows:
+    (a) **Single User/Single Device**: The license is granted per user per device. Use on multiple devices requires separate licenses or explicit written permission from the Licensor.
+    (b) **No Redistribution**: You may not rent, lease, loan, sell, sublicense, assign, distribute, publish, transfer, or otherwise make available the Software, any copy thereof, or its features to any third party, whether for commercial gain or free of charge.
+    (c) **No Modification/Reverse Engineering**: You may not modify, adapt, translate, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code, underlying ideas, algorithms, structure, or design of the Software.
+    (d) **No Derivative Works**: You may not create derivative works based upon the Software.
+    (e) **No Removal of Notices**: You may not remove, alter, or obscure any proprietary notices, labels, or marks on the Software.
+
+2.3 **No Source Code**. This Agreement grants no rights to the source code of the Software. The Software is provided in compiled, machine-readable object code form only.
+
+---
+
+### **ARTICLE III: OWNERSHIP & INTELLECTUAL PROPERTY**
+
+3.1 **Retention of Title**. Licensor retains all right, title, interest, and ownership in and to the Software, including all Intellectual Property Rights therein. This Agreement transfers no ownership of the Software or its intellectual property to You. All rights not expressly granted herein are reserved by Licensor.
+
+3.2 **Trademarks**. "TitaniumSheet," its associated logos, and all related names, logos, product and service names, designs, and slogans are trademarks of the Licensor. You are granted no right to use these marks without prior written consent.
+
+3.3 **Feedback**. Any feedback, suggestions, ideas, or other information You provide regarding the Software ("Feedback") shall be deemed non-confidential. Licensor shall have a worldwide, perpetual, irrevocable, royalty-free license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such Feedback for any purpose, commercial or otherwise, without any obligation to You.
+
+---
+
+### **ARTICLE IV: RESTRICTIONS & PROHIBITED USES**
+
+You expressly agree NOT to:
+4.1 Use the Software in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this Agreement.
+4.2 Use the Software to develop a competing spreadsheet or data analysis product.
+4.3 Use the Software to process data or engage in any activity that infringes upon the intellectual property rights, privacy rights, or other rights of any third party.
+4.4 Circumvent any technological measures intended to control access to or protect the Software.
+4.5 Use the Software in any application where failure of the Software could lead to death, personal injury, or severe physical or environmental damage ("High Risk Activities"), including but not limited to nuclear facilities, aircraft navigation, life-support systems, or weaponry systems.
+4.6 Use the Software in a service bureau, software-as-a-service (SaaS), time-sharing, or application service provider environment where the Software's functionality is made available to multiple third-party users.
+4.7 Attempt to gain unauthorized access to any portion of the Software or any related systems or networks.
+
+---
+
+### **ARTICLE V: DISCLAIMER OF WARRANTIES & LIMITATION OF LIABILITY**
+
+**SECTION 5.1 – EXTREME DISCLAIMER OF WARRANTIES**
+
+**THE SOFTWARE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITH ALL FAULTS AND DEFECTS, AND WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, LICENSOR, ON ITS OWN BEHALF AND ON BEHALF OF ITS AFFILIATES AND ITS AND THEIR RESPECTIVE LICENSORS AND SERVICE PROVIDERS, EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND WARRANTIES THAT MAY ARISE OUT OF COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE, OR TRADE PRACTICE.**
+
+**LICENSOR PROVIDES NO WARRANTY THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS, ACHIEVE ANY INTENDED RESULTS, BE COMPATIBLE WITH ANY OTHER SOFTWARE OR SYSTEMS, OPERATE WITHOUT INTERRUPTION, BE ERROR-FREE, OR THAT ANY DEFECTS CAN OR WILL BE CORRECTED. YOU ASSUME ALL RISK FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM DOWNLOADING, INSTALLING, OR USING THE SOFTWARE.**
+
+**NO ORAL OR WRITTEN INFORMATION, REPRESENTATION, OR ADVICE GIVEN BY LICENSOR OR ITS AGENTS SHALL CREATE A WARRANTY. YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.**
+
+**SECTION 5.2 – LIMITATION OF LIABILITY**
+
+**TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR, ITS AFFILIATES, OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, PERSONAL INJURY, LOSS OF PRIVACY, FAILURE TO MEET ANY DUTY (INCLUDING OF GOOD FAITH OR REASONABLE CARE), NEGLIGENCE, OR ANY OTHER PECUNIARY OR OTHER LOSS WHATSOEVER, ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT, OR OTHERWISE).**
+
+**IN NO EVENT SHALL LICENSOR'S AGGREGATE LIABILITY UNDER THIS AGREEMENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, OR ANY OTHER THEORY, EXCEED THE AMOUNT OF ONE U.S. DOLLAR ($1.00 USD) OR THE MINIMUM AMOUNT PERMITTED BY LAW, WHICHEVER IS GREATER. THE FOREGOING LIMITATIONS WILL APPLY EVEN IF THE ABOVE STATED REMEDY FAILS OF ITS ESSENTIAL PURPOSE.**
+
+**YOU ACKNOWLEDGE THAT THE LICENSE FEE (IF ANY) REFLECTS THIS ALLOCATION OF RISK.**
+
+---
+
+### **ARTICLE VI: TERM & TERMINATION**
+
+6.1 **Term**. This Agreement is effective from the Effective Date and shall continue until terminated.
+
+6.2 **Termination by Licensor**. Licensor may terminate this Agreement immediately upon written notice to You if You breach any material term of this Agreement. Licensor may also terminate this Agreement at its sole discretion for any reason or no reason by providing thirty (30) days written notice.
+
+6.3 **Termination by You**. You may terminate this Agreement at any time by permanently destroying all copies of the Software in Your possession and ceasing all use.
+
+6.4 **Effect of Termination**. Upon termination:
+    (a) All rights granted to You under this Agreement will immediately cease.
+    (b) You must immediately cease all use of the Software.
+    (c) You must permanently delete, destroy, or return all copies of the Software and related documentation in Your possession or control.
+    (d) The provisions of Articles III (Ownership), V (Disclaimer & Liability), VII (Indemnification), VIII (General Provisions), and any other terms which by their nature are intended to survive termination, shall survive.
+
+---
+
+### **ARTICLE VII: INDEMNIFICATION**
+
+You agree to defend, indemnify, and hold harmless Licensor, its affiliates, licensors, and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to Your violation of this Agreement or Your use of the Software, including, but not limited to, Your violation of any third-party rights.
+
+---
+
+### **ARTICLE VIII: GENERAL PROVISIONS**
+
+8.1 **Entire Agreement**. This Agreement constitutes the entire agreement between You and Licensor regarding the Software and supersedes all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral.
+
+8.2 **Governing Law & Jurisdiction**. This Agreement shall be governed by and construed in accordance with the laws of the United States and the State of Delaware, without regard to its conflict of law principles. Any legal suit, action, or proceeding arising out of or related to this Agreement shall be instituted exclusively in the federal or state courts located in New Castle County, Delaware. You waive any and all objections to the exercise of jurisdiction over You by such courts and to venue in such courts.
+
+8.3 **Severability**. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the remaining provisions shall remain in full force and effect.
+
+8.4 **Waiver**. No failure to exercise, or delay in exercising, any right or remedy under this Agreement shall operate as a waiver thereof.
+
+8.5 **Assignment**. You may not assign, delegate, or transfer this Agreement or Your rights hereunder, by operation of law or otherwise, without Licensor's prior written consent. Any attempted assignment in violation of this clause is void. Licensor may freely assign this Agreement.
+
+8.6 **Notices**. All notices to Licensor shall be in writing and sent via email to `rockyoliver454@gmail.com` or to such other address as Licensor may specify.
+
+8.7 **Updates to Agreement**. Licensor reserves the right, at its sole discretion, to modify or replace this Agreement at any time. The most current version will be posted at the Software's official distribution point (e.g., https://rockyoliver.itch.io/titaniumsheet). Your continued use of the Software after any such changes constitutes Your acceptance of the new Agreement.
+
+8.8 **Export Compliance**. You agree to comply with all applicable export and re-export control laws and regulations, including the Export Administration Regulations maintained by the U.S. Department of Commerce.
+
+**BY USING THE TITANIUMSHEET SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS. IF YOU ARE ACCEPTING ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND THAT ENTITY TO THIS AGREEMENT.**
+
+**Licensor:** Rocky L. Oliver
+**Contact:** rockyoliver454@gmail.com
+**Software:** TitaniumSheet
+**Official Source:** https://rockyoliver.itch.io/titaniumsheet
+
+**© 2026 Rocky L. Oliver. All Rights Reserved.**
